@@ -1,0 +1,17 @@
+#include<stdio.h>
+#inclde<conio.h>
+#iclude<string.h>
+void main()
+{
+char=a[7]="welcome",b[5]="water";
+str len()
+for(a=1;a<=(input -'c' +1);++a)
+for(b=1;b<=a;b++)
+pritf("%C","welcome");
+}
+++welcome;
+++water;
+}
+return o ;
+getch();
+}
